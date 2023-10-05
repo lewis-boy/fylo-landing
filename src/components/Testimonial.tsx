@@ -3,7 +3,7 @@ import { raleway } from '~/pages'
 
 const Testimonial = ({ }) => {
     return (
-        <div className={`${raleway.variable}` + " font-raleway"}>
+        <div className={`${raleway.variable} ` + "font-raleway font-regular"}>
             Testimonial
         </div>
     )
